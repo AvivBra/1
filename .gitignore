@@ -4,5 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-
 Terminal Saved Output.txt
+credentials.json
+token.json
